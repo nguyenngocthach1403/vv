@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 47,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "TheStreet",
+            "title": "Analyst unveils Nvidia stock price 'line in the sand' - TheStreet",
+            "description": null,
+            "url": "https://www.thestreet.com/technology-1/analyst-unveils-nvidia-stock-price-line-in-the-sand",
+            "urlToImage": null,
+            "publishedAt": "2024-03-20T00:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "JetBlue dropping service to these cities after deals with Spirit, American blocked - New York Post ",
+            "description": "JetBlue has lost more than $2 billion since its last profitable year, 2019.",
+            "url": "https://nypost.com/2024/03/19/business/jetblue-dropping-service-to-these-cities-after-deals-with-spirit-american-blocked/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/jetblue-drops-service.jpg?quality=75&strip=all&1710874741&w=1024",
+            "publishedAt": "2024-03-20T00:10:05Z",
+            "content": "JetBlue Airways will end service at several cities and reduce flying out of Los Angeles in a move to retrench and focus on stronger markets after years of losing money.\r\nThe changes will also help th… [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Min",
+            "title": "Stock futures are little changed as investors await Fed rate decision: Live updates - CNBC",
+            "description": "The central bank is broadly anticipated to keep interest rates unchanged, but investors will scan the dot plot for insight into when cuts are coming.",
+            "url": "https://www.cnbc.com/2024/03/19/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107382581-17096589542024-03-05t171307z_746103105_rc2pf6aga3b2_rtrmadp_0_usa-stocks.jpeg?v=1709658986&w=1920&h=1080",
+            "publishedAt": "2024-03-19T23:22:00Z",
+            "content": "U.S. stock futures were little changed Tuesday night following a winning day for the major averages, as investors awaited the latest Federal Reserve policy decision.\r\nDow Jones Industrial Average fut… [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Sharon Udasin",
+            "title": "California signs deal with Stellantis to uphold vehicle emissions rules - The Hill",
+            "description": "California Gov. Gavin Newsom (D) announced on Tuesday that top automaker Stellantis has agreed to abide by the Golden State’s strict emissions rules, regardless of decisions made by a future federal administration. Through this partnership, Stellantis — the p…",
+            "url": "https://thehill.com/homenews/state-watch/4543032-california-signs-deal-with-stellantis-to-uphold-vehicle-emissions-rules/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/10/4587fb0ca2674a47b341b107ea316fad-e1710885954207.jpg?w=1280",
+            "publishedAt": "2024-03-19T23:09:00Z",
+            "content": "Skip to content\r\nCalifornia Gov. Gavin Newsom (D) announced on Tuesday that top automaker Stellantis has agreed to abide by the Golden State’s strict emissions rules, regardless of decisions made by … [+3883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Peter Wilgoren",
+            "title": "A risky way to win the biggest lottery jackpots every time - KTLA Los Angeles",
+            "description": "Everyone loves to dream big. That’s why lotteries exist. As the Mega Millions and Powerball jackpots both surge again, we wanted to investigate just how a big-spending, risk-taking person could guarantee that they win the biggest jackpots.  Here’s the breakdo…",
+            "url": "https://ktla.com/news/how-to-win-the-biggest-powerball-and-mega-millions-jackpots-every-time-but-theres-a-huge-catch/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/01/Powerball-tickets-e1704202337461.jpg?w=1280",
+            "publishedAt": "2024-03-19T23:04:16Z",
+            "content": "Everyone loves to dream big. Thats why lotteries exist.\r\nAs the Mega Millions and Powerball jackpots both surge again, we wanted to investigate just how a big-spending, risk-taking person could guara… [+3586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Chipotle's board of directors approves 50-for-1 stock split - CNBC",
+            "description": null,
+            "url": "https://www.cnbc.com/2024/03/19/chipotles-board-of-directors-approves-50-for-1-stock-split-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107277186-1690391604401-gettyimages-1553802110-CHIPOTLE_EARNS.jpeg?v=1710885959&w=1920&h=1080",
+            "publishedAt": "2024-03-19T22:10:21Z",
+            "content": "Chipotle Mexican Grill said on Tuesday its board had approved a 50-for-1 split of its common stock, sending the burrito chain's shares about 7% higher in extended trading.\r\nThe California-based compa… [+756 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "DAVID BAUDER",
+            "title": "Gannett news chain says it will stop using AP content for first time in a century - The Associated Press",
+            "description": "The media company Gannett, publisher of USA Today and more than 200 newspapers across the U.S., says it will stop using stories, video and images from The Associated Press later this month. It's another sign of the news industry's retrenchment, and the end of…",
+            "url": "https://apnews.com/article/gannett-associated-press-contract-97405e4715c9a25d21477b992028db2a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ed01894/2147483647/strip/true/crop/5000x2813+0+132/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F38%2F49%2F03d28b5e0034a7cd68e83ba64e4e%2F6445e860c5314e6e9c09cb4852de493b",
+            "publishedAt": "2024-03-19T22:05:00Z",
+            "content": "NEW YORK (AP) The media company Gannett, the nations largest newspaper chain and publisher of USA Today, said Tuesday it would stop using journalism from The Associated Press later this month, severi… [+2580 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Super Micro Computer Shares Dive On Planned Stock Sale - Investor's Business Daily",
+            "description": "Super Micro Computer stock plunged after the data center specialist announced a new share offering. Super Micro stock is an AI leader.",
+            "url": "https://www.investors.com/news/technology/super-micro-stock-falls-planned-share-offering/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/03/Stock-Supermicro-MWC-company.jpg",
+            "publishedAt": "2024-03-19T21:27:00Z",
+            "content": "Super Micro Computer (SMCI) shares plunged Tuesday after the data center specialist announced a new stock offering.\r\nXThe San Jose, Calif.-based company said it plans to sell 2 million additional sha… [+1601 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Marc Sternfield",
+            "title": "New California home sales numbers are out. What we’ve learned - KTLA Los Angeles",
+            "description": "Home sales in California grew by double digits for the second straight month in February as buyers took advantage of falling mortgage rates, according to data released this week by the California Association of Realtors. The sale of single-family homes statew…",
+            "url": "https://ktla.com/news/california/new-california-home-sales-numbers-are-out-what-weve-learned/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/03/home-for-sale.jpg?w=1280",
+            "publishedAt": "2024-03-19T21:17:06Z",
+            "content": "Home sales in California grew by double digits for the second straight month in February as buyers took advantage of falling mortgage rates, according to data released this week by the California Ass… [+11413 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": null,
+            "title": "Nvidia’s Jensen Huang says AI hallucinations are solvable, artificial general intelligence is 5 years away - TechCrunch",
+            "description": null,
+            "url": "https://techcrunch.com/2024/03/19/agi-and-hallucinations/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-19T21:14:07Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Parkev Tatevosian, CFA, The Motley Fool",
+            "title": "Where Will Palantir Stock Be in 1 Year? - Yahoo Finance",
+            "description": "Palantir Technologies is one of the world's most innovative artificial intelligence (AI) companies.",
+            "url": "https://www.fool.com/investing/2024/03/19/where-will-palantir-stock-be-in-1-year/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/u..rCO5JVXFI0loocrfDoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/ad93ade220c63c671cfedf83f0899856",
+            "publishedAt": "2024-03-19T20:12:22Z",
+            "content": "Fool.com contributor Parkev Tatevosian forecasts where Palantir's (NYSE: PLTR) stock price could be in 2024.\r\n*Stock prices used were the afternoon prices of March 17, 2024. The video was published o… [+1280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "Texas yanks $8.5B from Larry Fink's BlackRock in 'massive blow against the scam of ESG' - New York Post ",
+            "description": "The divestment represents a large share of the $53 billion Texas PSF, a fund created in the 19th century to support the state’s public schools.",
+            "url": "https://nypost.com/2024/03/19/business/texas-yanks-8-5b-from-larry-finks-blackrock-in-massive-blow-against-the-scam-of-esg/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/blackrock-texas-esg.jpg?quality=75&strip=all&1710854177&w=1024",
+            "publishedAt": "2024-03-19T20:09:00Z",
+            "content": "The State of Texas is terminating a massive $8.5 billion investment with trillion-dollar asset manager BlackRock over the state’s determination that the firm is engaged in a boycott of energy compani… [+6111 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Aislinn Murphy",
+            "title": "George Lucas says 'no one knows Disney better' as he backs Bob Iger in proxy fight with Peltz - Fox Business",
+            "description": "The proxy fight between activist investor Nelson Peltz and Disney continues to heat up this week. Now, George Lucas just made his support for Disney and Bob Iger known.",
+            "url": "https://www.foxbusiness.com/markets/george-lucas-says-no-one-knows-disney-better-he-backs-bob-iger-proxy-fight-peltz",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/george-lucas.jpg?ve=1&tl=1",
+            "publishedAt": "2024-03-19T20:07:00Z",
+            "content": "Legendary filmmaker George Lucas is backing Disney and CEO Bob Iger in the company's proxy fight with activist investor Nelson Peltz.\r\n\"No one knows Disney better\" than CEO Bob Iger, Lucas said in a … [+3448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Josh Lipton",
+            "title": "MicroStrategy stock falls as bitcoin slide continues - Yahoo Finance",
+            "description": "Shares of MicroStrategy (MSTR) fell on Tuesday after the company completed a convertible debt offering. The company says the money from the offering was used...",
+            "url": "https://finance.yahoo.com/video/microstrategy-stock-falls-bitcoin-slide-195712184.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7w7ds6hvCbLmaRKZ.D039g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/473a5e10-e625-11ee-a3ff-b65680eebf84",
+            "publishedAt": "2024-03-19T19:57:12Z",
+            "content": "Shares of MicroStrategy (MSTR) fell on Tuesday after the company completed a convertible debt offering. The company says the money from the offering was used to buy more bitcoin (BTC-USD), something … [+3692 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Anthony Robledo, Natalie Neysa Alund",
+            "title": "Dairy Queen's free cone day is back: How to get free ice cream to kick off spring - USA TODAY",
+            "description": "Free Cone Day will take place at participating restaurants nationwide on Tuesday March 19, the first day of spring.",
+            "url": "https://www.usatoday.com/story/money/food/2024/03/19/dairy-queen-free-cone-day/73031698007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2019/03/19/USAT/88baf1f2-9f1d-4ece-a6f9-338f9034554c-dairyqueenicecream.jpg?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
+            "publishedAt": "2024-03-19T19:52:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Here's everything to expect from the Federal Reserve's policy meeting Wednesday - CNBC",
+            "description": "The Fed has a lot to do at its meeting this week, but ultimately may not end up doing a whole lot.",
+            "url": "https://www.cnbc.com/2024/03/19/heres-everything-to-expect-from-the-federal-reserves-policy-meeting-wednesday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107367297-17067313812024-01-31t195624z_2059512089_rc26t5ae0jni_rtrmadp_0_usa-economy-fed.jpeg?v=1706731427&w=1920&h=1080",
+            "publishedAt": "2024-03-19T19:35:42Z",
+            "content": "Federal Reserve Bank Chairman Jerome Powell testifies before the House Financial Services Committee in the Rayburn House Office Building on Capitol Hill on March 06, 2024 in Washington, DC. \r\nThe Fed… [+6088 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY",
+            "title": "Best places to work in 2024? Here's what US employees had to say about their employers - USA TODAY",
+            "description": "Here are the Top Workplaces in the U.S., ranked in a survey by Energage, along with USA TODAY.",
+            "url": "https://www.usatoday.com/story/money/2024/03/19/best-places-to-work-2024-employers/72843732007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/15/USAT/72985928007-workplaces-topper.jpg?crop=2497,1406,x0,y20&width=2497&height=1406&format=pjpg&auto=webp",
+            "publishedAt": "2024-03-19T19:22:42Z",
+            "content": "Two mortgage lending companies, a CPA firm, a staffing business and a credit union are among the top workplaces in the U.S.\r\nThe rankings are part of the fourth-annual survey co-sponsored by Energage… [+1728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Michael Dorgan",
+            "title": "Pennsylvania Lottery stops Mega Millions sales ahead of massive $875M draw - Fox Business",
+            "description": "The Pennsylvania Lottery has shut down sales for the Mega Millions and Powerball draws Tuesday as it undergoes a system upgrade.",
+            "url": "https://www.foxbusiness.com/money/pennsylvania-lottery-stops-mega-millions-sales-massive-875m-draw",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/Mega-Millions.jpg?ve=1&tl=1",
+            "publishedAt": "2024-03-19T18:25:00Z",
+            "content": "If you live in Pennsylvania, then your luck is probably out if you planned on purchasing a Mega Millions ticket with the hope of scooping up Tuesday night’s $875 million draw.\r\nThe Pennsylvania Lotte… [+2543 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "Nvidia CEO wants enterprise to think ‘AI factory,’ not data center - TechCrunch",
+            "description": "Nvidia benefits tremendously if it can persuade companies to think of data centers and AI tools in a different way.",
+            "url": "https://techcrunch.com/2024/03/19/nvidia-ai-factory-gtc-2024/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/Screenshot-2024-03-19-at-1.30.00 PM.png?resize=1200,727",
+            "publishedAt": "2024-03-19T18:20:58Z",
+            "content": "In Mondays keynote at Nvidia’s GTC 2024 event, CEO Jensen Huang kept repeating the phrase “AI factory.”\r\nIn the last Industrial Revolution, the raw material that went into the factory was water, Huan… [+952 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Addy Bink",
+            "title": "What to know about ketamine after Elon Musk discusses use of drug - The Hill",
+            "description": "While speaking with former CNN reporter Don Lemon, Elon Musk talked about his use of ketamine to treat possible symptoms of depression.",
+            "url": "https://thehill.com/homenews/nexstar_media_wire/4541741-what-to-know-about-ketamine-after-elon-musk-discusses-use-of-drug/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/12/65759d7ff0b045.32497206-e1710867600536.jpeg?w=1280",
+            "publishedAt": "2024-03-19T18:09:00Z",
+            "content": "Skip to content\r\n(NEXSTAR) — In an interview lasting more than an hour, former CNN reporter Don Lemon and Tesla CEO Elon Musk went back and forth over various topics, including conspiracy theories, a… [+4431 chars]"
+        }
+    ]
+}
